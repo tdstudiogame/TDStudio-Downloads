@@ -8,10 +8,3 @@
   <a href="https://thanhdi.com/contact.html">contact@thanhdi.com</a>
 </p>
 
-<style>
-  .logo {
-    max-width: 180px; /* chỉnh kích thước logo tại đây */
-    width: 100%;
-    height: auto;
-  }
-</style>
