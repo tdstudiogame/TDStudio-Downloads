@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="banner2.png" alt="kietsieudz banner" width="100%" />
+  <img src="https://thanhdi.com/images/logo.png" alt="kietsieudz banner" width="100%" />
 </div>
 
 <h2 align="center">TDStudio · kietsieudz</h2>
