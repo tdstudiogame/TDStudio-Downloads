@@ -13,11 +13,13 @@
 
 ## Danh sách máy chủ
 
-- [Server 1](https://nroclan.com)
-- [Server 2](https://nro3q.com)
-- [Server 3](https://nromun.com)
-- [Server 4](https://nroping.com)
-- [Server 5](https://nrokid.com)
+- [Server 1](https://sv1.thanhdi.games)
+- [Server 2](https://sv2.thanhdi.games)
+- [Server 3](https://sv3.thanhdi.games)
+- [Server 4](https://sv4.thanhdi.games)
+- [Server 5](https://sv5.thanhdi.games)
+- [Server 6](https://sv6.thanhdi.games)
+- [Server Indo](https://indo.thanhdi.games)
 
 ---
 
@@ -31,6 +33,7 @@
 - [Tiktok](https://www.tiktok.com/@ngocrongonline.tdstudio)
 - [Website chính](https://thanhdi.com)
 - [Website Game](https://thanhdi.games)
+- [Website Hướng Dẫn](https://ngocrongtdstudio.com)
 
 ---
 
