@@ -11,6 +11,13 @@
 
 ---
 
+## Tải Game
+
+- [Phiên bản 1.1.0](https://github.com/tdstudiogame/TDStudio-Downloads/releases/tag/v1.1.0)
+- [Phiên bản 1.0.9](https://github.com/tdstudiogame/TDStudio-Downloads/releases/tag/v1.0.9)
+
+---
+
 ## Danh sách máy chủ
 
 - [Server 1](https://sv1.thanhdi.games)
